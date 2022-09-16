@@ -35,7 +35,7 @@ import { EspacioFisicoSchedule, EspacioFisicoScheduleEvent } from "https://githu
 
 ```javascript
 const main = async () => {
-	console.log(await new EspacioFisicoSchedule("0745996").getScheduleObject())
+	console.log(await new EspacioFisicoSchedule("0785996").getScheduleObject())
 }
 
 main();
@@ -52,6 +52,11 @@ deno run --allow-net programaBacano.ts
 Es necesario correr cualquier programa que utilice Hermes con la bandera `--allow-net` de deno, dado que necesita permiso para hacer peticiones HTTP.
 
 Los datos regresarán en forma de un array de `EspacioFisicoScheduleEvent` (Las clases del estudiante representadas como objetos)
+
+### Roadmap / TODOs
+- [x] Que la librería sea utilizable Xd
+- [ ] Fechas de inicio y final personalizadas
+	Por defecto las fechas de inicio y final de todos los horarios se aproximan al Lunes y Domingo más cercanos, respectivamente
 
 ### Vainas que recomiendo leer si quieres hacer algo similar
 
