@@ -25,8 +25,6 @@ Por ahora esta librería/módulo está escrit@ para ser usad@ en [deno](deno.lan
 
 **En deno** <img src="https://deno.land/logo.svg?__frsh_c=a8nx5mcy04n0" width="20"/>
 
-En tres simples pasos, ya puedes empezar a usar Hermes en deno <img src="https://deno.land/logo.svg?__frsh_c=a8nx5mcy04n0" width="20"/>
-
 1. Importa la librería en tu código
 
 ```javascript
