@@ -18,7 +18,8 @@ Hermes es una librería que ofrece una capa de abstracción para algo que nadie 
 
 Sí.
 
-Por ahora esta librería/módulo está escrit@ para ser usad@ en [Deno](deno.land/), el runtime jurásico con soporte de primera clase para TypeScript. Sin embargo, tengo la intención de publicar esto como un paquete de [npm](https://www.npmjs.com/) para usar tanto en Node.js <img src="https://www.servicepilot.com/images/integration/appservice-nodejs.webp" width="15"/> como en el navegador
+Por ahora esta librería/módulo está escrit@ para ser usad@ en [deno](deno.land/) <img src="https://deno.land/logo.svg?__frsh_c=a8nx5mcy04n0" width="20"/>
+, el runtime jurásico con soporte de primera clase para TypeScript. Sin embargo, tengo la intención de publicar esto como un paquete de [npm](https://www.npmjs.com/) para usar tanto en Node.js <img src="https://www.servicepilot.com/images/integration/appservice-nodejs.webp" width="15"/> como en el navegador
 
 ### Vale, ¿Cómo?
 
