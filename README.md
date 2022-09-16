@@ -1,9 +1,9 @@
-<p align="center">
+<h2 align="middle">
 <img src="https://i.imgur.com/FyuosDs.png" width="300"/>
 
-¡Un Hermes para Artemisa! *(Más precisamente, para la página de "Consultar Espacio Físico")*
-</p>
----
+¡Un Hermes para Artemisa!</br>
+*(Más precisamente, para la página de "Consultar Espacio Físico")*
+</h2>
 
 ### ¿Qué?
 
