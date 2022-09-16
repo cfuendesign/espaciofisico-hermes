@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/FyuosDs.png"/>
+<img src="https://i.imgur.com/FyuosDs.png" width="300"/>
 
 ¡Un Hermes para Artemisa! *(Más precisamente, para la página de "Consultar Espacio Físico")*
 </p>
