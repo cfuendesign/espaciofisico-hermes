@@ -16,15 +16,15 @@ Hermes es una librería que ofrece una capa de abstracción para algo que nadie 
 
 ### ¿Deno?
 
-Sí. <img src="https://deno.land/logo.svg?__frsh_c=a8nx5mcy04n0" width="50"/>
+Sí. <img src="https://deno.land/logo.svg?__frsh_c=a8nx5mcy04n0" width="10"/>
 
 Por ahora esta librería/módulo está escrit@ para ser usad@ en [Deno](deno.land/), el runtime jurásico con soporte de primera clase para TypeScript. Sin embargo, tengo la intención de publicar esto como un paquete de [npm](https://www.npmjs.com/)
 
 ### Vale, ¿Cómo?
 
-**En deno** <img src="https://deno.land/logo.svg?__frsh_c=a8nx5mcy04n0" width="50"/>
+**En deno** <img src="https://deno.land/logo.svg?__frsh_c=a8nx5mcy04n0" width="10"/>
 
-En tres simples pasos, ya puedes empezar a usar Hermes en deno <img src="https://deno.land/logo.svg?__frsh_c=a8nx5mcy04n0" width="50"/>
+En tres simples pasos, ya puedes empezar a usar Hermes en deno <img src="https://deno.land/logo.svg?__frsh_c=a8nx5mcy04n0" width="10"/>
 
 1. Importa la librería en tu código
 
