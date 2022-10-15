@@ -28,7 +28,7 @@ Por ahora esta librería/módulo está escrit@ para ser usad@ en [deno](deno.lan
 1. Importa la librería en tu código
 
 ```javascript
-import { EspacioFisicoSchedule, EspacioFisicoScheduleEvent } from "https://github.com/cfuendesign/espaciofisico-hermes/blob/mucho/mod.ts"
+import { EspacioFisicoSchedule, EspacioFisicoScheduleEvent } from "https://raw.githubusercontent.com/cfuendesign/espaciofisico-hermes/mucho/mod.ts"
 ```
 
 2. Crea una instancia de la clase `EspacioFisicoSchedule` y pasa al constructor un string, que representa la cédula del estudiante de quien quieres ver el horario. Acto seguido, utiliza el método `getScheduleObject` para obtener los datos
