@@ -1,8 +1,7 @@
 <h2 align="middle">
-<img src="https://i.imgur.com/FyuosDs.png" width="300"/>
+<img src="https://i.imgur.com/FyuosDs.png" width="200"/>
 
-¡Un Hermes para Artemisa!</br>
-*(Más precisamente, para la página de "Consultar Espacio Físico")*
+Hermes
 </h2>
 
 ### ¿Qué?
@@ -11,7 +10,7 @@ Hermes es una librería que ofrece una capa de abstracción para algo que nadie 
 
 ### ¿Por qué?
 
-- Quiero crear una aplicación CLI con la cual, con un comando, se pueda visualizar el horario en la terminal
+- Para facilitar la creación de mi aplicación [qclase](https://github.com/cfuendesign/qclase), la cual permite visualizar horarios desde la terminal.
 - Sé que a alguien más le va a servir esto y, como miembro de la rama [IEEE Unbosque](https://branch-ieee-ueb.netlify.app/), me gusta crear herramientas [libres](https://www.gnu.org/philosophy/free-sw.html) para la comunidad universitaria.
 
 ### ¿Deno?
